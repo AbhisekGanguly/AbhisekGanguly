@@ -37,6 +37,13 @@ or <a href="mailto:abhirocks2002@gmail.com"><b>email</b></a> me
   
 </div>
 
+<div align='center'>
+  P.S. I also write Blogs and share my projects at <a href='http://abhisekdevblog.com' target='_blank'>abhisekdevblog.com</a>, consider checking it out.
+  <br> Also consider subscribing to my <a href='https://1bc5f2c5.sibforms.com/serve/MUIEAEk6q8ffiDbmlAclSZgIZorNvYtXv6NI9hKpmRbZ0CkbsPLhq_tsJjogAiRG1gey5HlPmcCtZ4xW1DjlCUFffqzE7GDbvcrpeKSvXVsgkGmOLJMlLaSthf0cE_na4k0ppfQZzmDAOLM8pQca2fiM5zYXozeTUkSburQmMmV_k8YKtkR6UeCNBjNO6GL9LaaHLWnaG4-kUiYa' target='_blank'>newsletter</a>.
+  <br>Thank you :)
+</div>
+
+
 
 
 <!--
