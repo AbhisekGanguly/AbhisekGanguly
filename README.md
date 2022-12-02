@@ -15,7 +15,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/AbhisekGanguly/AbhisekGanguly//issues/new"><b>here</b></a><br>
-or <a href="mailto:abhirocks2002@gmail.com"><b>email</b></a> me
+or <a href="mailto:ceo@edumettle.com"><b>email</b></a> me
 
 <br><i>Happy Coding!</i> 😊
 
@@ -38,8 +38,8 @@ or <a href="mailto:abhirocks2002@gmail.com"><b>email</b></a> me
 </div>
 
 <div align='center'>
-  P.S. I also write Blogs and share my projects at <a href='http://abhisekdevblog.com' target='_blank'>abhisekdevblog.com</a>, consider checking it out.
-  <br> Also consider subscribing to my <a href='https://1bc5f2c5.sibforms.com/serve/MUIEAEk6q8ffiDbmlAclSZgIZorNvYtXv6NI9hKpmRbZ0CkbsPLhq_tsJjogAiRG1gey5HlPmcCtZ4xW1DjlCUFffqzE7GDbvcrpeKSvXVsgkGmOLJMlLaSthf0cE_na4k0ppfQZzmDAOLM8pQca2fiM5zYXozeTUkSburQmMmV_k8YKtkR6UeCNBjNO6GL9LaaHLWnaG4-kUiYa' target='_blank'>newsletter</a>.
+  P.S. I also make videos about computer science and machine learning at <a href='https://youtube.com/@edumettlecs' target='_blank'>EduMettle CS</a>, consider checking it out.
+  <br> Also consider following my <a href='https://github.com/edumettle' target='_blank'>EduMettle Page</a>.
   <br>Thank you :)
 </div>
 
